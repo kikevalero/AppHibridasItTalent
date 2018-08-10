@@ -7,3 +7,6 @@
 [submodule "itTalent050-violenciaGenero/Violenciagenero"]
 	path = itTalent050-violenciaGenero/Violenciagenero
 	url = https://github.com/nataliaproyect/Violenciagenero.git
+[submodule "itTalent050-contactoNatural/humedarium"]
+	path = itTalent050-contactoNatural/humedarium
+	url = https://github.com/edgarmillan/humedarium.git
