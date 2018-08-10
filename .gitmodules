@@ -13,3 +13,6 @@
 [submodule "itTalent050-apportar/apportar"]
 	path = itTalent050-apportar/apportar
 	url = https://github.com/mainvictor/apporta.git
+[submodule "itTalent050-education/education"]
+	path = itTalent050-education/education
+	url = https://github.com/gustavoacs8710/EducaTIon.git
