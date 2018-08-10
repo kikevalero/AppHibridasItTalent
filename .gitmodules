@@ -4,3 +4,6 @@
 [submodule "itTalent050-apportar/Aprende2600"]
 	path = itTalent050-apportar/Aprende2600
 	url = https://github.com/cursoFullStack/Aprende2600.git
+[submodule "itTalent050-violenciaGenero/Violenciagenero"]
+	path = itTalent050-violenciaGenero/Violenciagenero
+	url = https://github.com/nataliaproyect/Violenciagenero.git
