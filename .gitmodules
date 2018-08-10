@@ -16,3 +16,6 @@
 [submodule "itTalent050-education/education"]
 	path = itTalent050-education/education
 	url = https://github.com/gustavoacs8710/EducaTIon.git
+[submodule "itTalent050-ecospot/ecoSpot"]
+	path = itTalent050-ecospot/ecoSpot
+	url = https://github.com/SoloSalsero/ecoSpot.git
