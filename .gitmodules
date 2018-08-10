@@ -10,3 +10,6 @@
 [submodule "itTalent050-contactoNatural/humedarium"]
 	path = itTalent050-contactoNatural/humedarium
 	url = https://github.com/edgarmillan/humedarium.git
+[submodule "itTalent050-apportar/apportar"]
+	path = itTalent050-apportar/apportar
+	url = https://github.com/mainvictor/apporta.git
