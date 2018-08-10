@@ -1,3 +1,6 @@
 [submodule "itTalent050-reciclar/redciclarApp"]
 	path = itTalent050-reciclar/redciclarApp
 	url = https://github.com/fredymarinhm/redciclarApp.git
+[submodule "itTalent050-apportar/Aprende2600"]
+	path = itTalent050-apportar/Aprende2600
+	url = https://github.com/cursoFullStack/Aprende2600.git
